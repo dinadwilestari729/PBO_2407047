@@ -1,4 +1,4 @@
-package latihan_2407047.src.latihan_polymorphism;
+package latihan_polymorphism;
 
 public class Persegi extends BangunDatar {
 
